@@ -1,0 +1,27 @@
+* { margin: 0; padding: 0; box-sizing: border-box;}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-card {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 300px;
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid #000000;
+    padding: 24px;
+    box-shadow: 0 8px 32px #0000001a;
+}
+
+.user-name {
+    border-bottom: 2px solid #000000;
+    margin-right: 15px;
+    margin-bottom: 6px;
+    font-size: 2rem;
+}
