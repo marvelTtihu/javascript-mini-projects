@@ -12,7 +12,7 @@ This is a mini learning module using mathematics.
 1. Clone this repo
 ```bash
    git clone https://github.com/marvelTtihu/javascript-mini-projects.git
-```
+``` 
 2. Open the `math-modules/` folder
 3. Open `index.html` in your browser — no server needed
 
